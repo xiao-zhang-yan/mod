@@ -1,3 +1,4 @@
+[SKILL.md](https://github.com/user-attachments/files/33316640/SKILL.md)
 ---
 name: patent-drafting-cn
 updated: 2026-10-08
